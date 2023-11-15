@@ -1,8 +1,8 @@
 ---
-title: Blr Demo
-emoji: 👀
-colorFrom: red
-colorTo: green
+title: Blr Numpyro
+emoji: 🌍
+colorFrom: gray
+colorTo: yellow
 sdk: streamlit
 sdk_version: 1.28.2
 app_file: app.py
