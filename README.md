@@ -1,5 +1,5 @@
 ---
-title: Blr Numpyro
+title: Bayesian Linear Regression using NumPyro
 emoji: 🌍
 colorFrom: gray
 colorTo: yellow
